@@ -6,13 +6,29 @@
     box-sizing: border-box;
 }
 
+.form-container {
+    width: 75%;
+    text-align: center;
+    margin: 1rem auto;
+}
+
+form {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.result-container {
+    text-align: center;
+    margin: 3rem;
+}
+
 html {
     font-family:'Roboto', sans-serif;
     color: #151515;
 }
 
 .movie-card {
-    margin-top: 5rem;
+    margin-top: 4rem;
     height: 800px;
     text-align: center;
 }
